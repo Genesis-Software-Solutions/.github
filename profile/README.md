@@ -1,1 +1,1 @@
-## Genesis Software Solutions 👋
+## Genesis Software Solutions
