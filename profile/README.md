@@ -13,7 +13,6 @@ Genesis:
 Genesis ePOS:
 - [Genesis-ePOS](https://github.com/Genesis-Software-Solutions/Genesis-ePOS)
 - [Genesis-ePOS-WS](https://github.com/Genesis-Software-Solutions/Genesis-ePOS-WS)
-- 
 
 Standalone Tools and Services:
 - [Genesis-Classic](https://github.com/Genesis-Software-Solutions/Genesis-Classic)
